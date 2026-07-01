@@ -67,7 +67,7 @@ Because this is a mirror sync, files deleted from the local backup directory wil
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/xui-one-gdrive-backup-sync.git
+git clone https://github.com/rootwcore/xui-one-gdrive-backup-sync.git
 cd xui-one-gdrive-backup-sync
 ```
 
