@@ -1,0 +1,28 @@
+# Runtime files
+*.log
+*.sql
+*.sql.gz
+*.sqlite
+*.db
+
+# Local configuration and secrets
+.env
+config.php
+rclone.conf
+*.token
+*.secret
+
+# Generated packages
+*.zip
+*.tar.gz
+
+# Dependency/cache folders
+vendor/
+node_modules/
+.cache/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
