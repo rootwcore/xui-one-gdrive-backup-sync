@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="./gdrive-xui.jpg" alt="XUI.ONE Google Drive Backup Sync" width="100%">
+</p>
+
+<br>
+
 # 🚀 XUI.ONE Google Drive Backup Sync
 
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
