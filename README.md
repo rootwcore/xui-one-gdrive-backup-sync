@@ -130,7 +130,7 @@ sudo xui-gdrive-sync dry-run
 Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/xui-one-gdrive-backup-sync.git
+git clone https://github.com/rootwcore/xui-one-gdrive-backup-sync.git
 cd xui-one-gdrive-backup-sync
 ```
 
